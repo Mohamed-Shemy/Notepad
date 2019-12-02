@@ -1,0 +1,31 @@
+D:\Programs\Mohamed Desing\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\Programs\Mohamed Desing\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\Programs\Mohamed Desing\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.pdb
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.TextEditor.resources
+D:\Programs\Mohamed Desing\Notepad\Notepad\bin\Debug\Notepad.exe.manifest
+D:\Programs\Mohamed Desing\Notepad\Notepad\bin\Debug\Notepad.application
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.exe.manifest
+D:\Programs\Mohamed Desing\Notepad\Notepad\obj\Debug\Notepad.application
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.pdb
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\bin\Debug\Notepad.exe.manifest
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\bin\Debug\Notepad.application
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.TextEditor.resources
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.exe.manifest
+E:\Programes\Mohamed Desing\C#\Notepad\Notepad\obj\Debug\Notepad.application
+D:\Programes\MohamedDesign\C#\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\Programes\MohamedDesign\C#\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\Programes\MohamedDesign\C#\Notepad\Notepad\obj\Debug\Notepad.pdb

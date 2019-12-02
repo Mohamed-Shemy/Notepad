@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Notepad.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TextFontSave" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 9.75pt</Value>
+    </Setting>
+    <Setting Name="TextColorSave" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="BackColorSave" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="AppSizeSave" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">621, 484</Value>
+    </Setting>
+    <Setting Name="WordWrapSave" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TextWordSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">On</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
